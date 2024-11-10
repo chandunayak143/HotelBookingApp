@@ -1,0 +1,95 @@
+.home{
+    background-color: #ebe8e8;
+    height: 350px;
+    width: 1000px;
+    border-radius: 8px;
+    margin: 10px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+#home{
+    display: flex;
+    flex-direction: column;
+}
+.home-left{
+    margin-left: 40px;
+    text-align: left;
+}
+.hom-text{
+    font-size: 30px;
+    font-weight: 500;
+    color: rgb(105, 104, 104);
+}
+.facebook-icon{
+    font-size: 30px;
+    margin-right: 6px;
+    color: rgb(105, 104, 104);
+}
+.instagram-icon{
+    font-size: 30px;
+    margin-left: 6px;
+    color: rgb(105, 104, 104);
+}
+.home-image{
+    height: 350px;
+}
+.bottom-box{
+    background-color:#ffffff;
+    height: 100px;
+    width: 800px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    margin:0px auto;
+    margin-top: -60px;
+    box-shadow:1px 2px 1px #bababa ;
+    margin-bottom: 10px;
+}
+.check-in-box{
+    width: auto;
+}
+.chech-in{
+    font-size: 16px;
+    font-weight: 500;
+    color: #202020;
+}
+.date{
+    font-size: 16px;
+    border: none;
+    text-align: center;
+}
+.bottom-box hr{
+    height: 60px;
+    
+    color: rgb(235, 230, 230);
+}
+.check-in-rooms{
+    display: flex;
+    align-items: center;
+    margin-top: -7px;
+}
+.icon{
+    font-size: 22px;
+    font-weight: 500;
+    color: #202020;
+}
+.number-of-rooms{
+    font-size: 17px;
+    font-weight: 500;
+    color: #202020;
+    margin: 0px 5px;
+}
+.book-button{
+    margin:0px 30px;
+    padding: 12px 30px;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 400;
+    background-color: #217994;
+}

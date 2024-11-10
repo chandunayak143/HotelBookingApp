@@ -1,0 +1,72 @@
+.conform-order{
+    margin: 20px 50px;
+}
+.conformOrder-card{
+    height: 280px;
+    width: 800px;
+    background-color: #ebe8e8;
+    border-radius: 6px;
+    margin: 0px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 20px;
+}
+.conform-order-left{
+    margin-left: 30px;
+    text-align: start;
+}
+.user-name-text{
+    font-size: 20px;
+    font-weight: 700;
+    color: #000000;
+}
+.user-details{
+    font-size: 18px;
+    font-weight: 500;
+    color: #3b3b3b;
+}
+.conform-order-right{
+    margin-right: 30px;
+    display: flex;
+    align-items: center;
+}
+.order-success-image{
+    height: 80px;
+    width: 80px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+.bottom-card-details{
+    background-color: #ffffff;
+    box-shadow: 1px 2px 2px 2px #bababa;
+    border-radius: 6px;
+    height: 100px;
+    width: 650px;
+    margin: -30px auto;
+    display: flex;
+    align-items: center;
+    padding: 12px;
+}
+.amount-btn-text{
+    margin-left: 40px;
+    margin-right: 20px;
+}
+.toal-rooms{
+    color: #000;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.amount-btn{
+    background-color: #217994;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    height: 40px;
+    width: 110px;
+}

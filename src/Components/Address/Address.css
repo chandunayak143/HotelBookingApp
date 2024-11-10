@@ -1,0 +1,37 @@
+.address{
+    margin-bottom: 20px;
+   margin-left: 60px;
+   margin-right: 60px;
+   text-align: start;
+   background-color: #ebe8e8;
+   padding: 15px;
+   border-radius: 4px;
+}
+.address-items-alignment{
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+.Address-heading{
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #202020;
+}
+.address-description{
+    font-size: 18px;
+    font-weight: 500;
+    color: rgb(63, 63, 63);
+    margin-top: -5px;
+}
+.location-button{
+    background-color: #217994;
+    padding: 12px 25px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #ffffff;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    border-radius: 3px;
+    letter-spacing: 1px;
+}

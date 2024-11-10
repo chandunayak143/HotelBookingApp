@@ -1,0 +1,119 @@
+.room {
+    margin: 10px auto;
+    background-color: #ebe8e8;
+    height: 220px;
+    width: 800px;
+    border-radius: 6px;
+}
+.name-and-mail{
+    margin: 5px;
+    text-align: start;
+    padding: 10px;
+}
+.user-input{
+    margin: 10px;
+    background-color: #ffffff;
+    height: 41px;
+    width: 335px;
+    border-radius: 6px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    padding-left: 20px;
+    font-family: 18px;
+    font-weight: 500;
+    color: #202020;
+    cursor: pointer;
+}
+.adults{
+    margin: 10px;
+    background-color: #ffffff;
+    height: 41px;
+    width: 150px;
+    border-radius: 6px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    padding-left: 20px;
+    font-family: 18px;
+    font-weight: 500;
+    color: #202020;
+    cursor: pointer;
+}
+.bottem-box-items{
+    margin: -60px auto;
+    background-color: #ffffff;
+    height: 90px;
+    width: 700px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 6px;
+    box-shadow: 1px 2px 1px 1px #bababa;
+}
+.check-in{
+    font-size: 16px;
+    font-weight: 500;
+    color: #202020;
+}
+.check-in-data-rooms{
+    margin-right: 18px;
+}
+.check-in-date-room{
+    display: flex;
+    align-items: center;
+}
+.icon-minus{
+    font-size: 22px;
+}
+.room-count{
+    font-size: 18px;
+    font-weight: 500;
+    color: #000000;
+    margin: -5px 6px;
+}
+.button-text{
+    margin: 0px 15px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.button-and-arrow{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.amount-button{
+    font-size: 22px;
+    font-weight: 500;
+    color: #ffffff;
+    background-color: #217994;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    height: 40px;
+    width: 130px;
+    border-radius: 2px;
+    text-align: start;
+    padding-left: 14px;
+
+}
+.rignt-wrrow{
+    background-color: rgb(21, 99, 129);
+    height: 40px;
+    width: 40px;
+    margin-left: -30px;
+    border-radius: 2px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+.pay-text{
+    font-size: 10px;
+    font-weight: 500;
+    color: #202020;
+}
+.address-container{
+    margin-top: 80px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,82 @@
+.discover{
+    margin-left: 60px;
+    margin-right: 60px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.discover-heading{
+   font-size: 34px;
+   font-weight: 500;
+   color: #202020;
+   margin-top: 40px;
+}
+.discover-card{
+    height: 260px;
+    width: 260px;
+    box-shadow: 1px 1px 2px 1px #bababa;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.profile-logo{
+    height: 60px;
+    width: 70px;
+}
+.user-name-and-star{
+    display: flex;
+    align-items: center;
+}
+.name-star{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.user-name{
+  font-size: 18px;
+  font-weight: 500;
+  color: #202020;
+  margin-left: 10px;  
+}
+.five-star{
+    display: flex;
+    align-items: center;
+    margin-top: -10px;
+}
+.star-icon{
+    color: yellow;
+    margin: 2px;
+}
+.description{
+    text-align: start;
+    font-size: 17px;
+    font-weight: 500;
+    color: #202020;
+}
+.image-comment{
+    height: 400px;
+    width: 300px;
+    margin: 10px 20px;
+    padding: 15px;
+    border-radius: 6px;
+    background-color: #ffffff;
+    box-sizing: 1px 2px 1px 1px #bababa;
+}
+.ladakh-image{
+    height: 260px;
+    width: 280px;
+    margin-left: 20px;
+}.profile{
+    height: 60px;
+    width: 60px;
+}
+.comments-items{
+    display: flex;
+    flex-direction: column;
+}
